@@ -1,4 +1,4 @@
-Alt-Executive Summary - Salvum Apes
+Executive Summary - Salvum Apes
 ===================================
 
 The purpose of this project was to utilise the Kaggle dataset ['Honeybees and Neonic Pesticides']
@@ -50,7 +50,7 @@ pinpoint the reason for these differences, be it number of bee colonies, volume 
 and so on. 
 
 
-Alt-Conclusions
+Conclusions
 ===============
 
 There does, from out data, seem to be a negative impact on honey yield, and thereby bee health from the use of neonic pesticides.
